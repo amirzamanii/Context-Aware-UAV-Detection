@@ -98,7 +98,18 @@ Due to copyright restrictions of the third-party benchmarks and the blind review
 
 If you find this code useful in your research, please cite our paper:
 
-*(Citation details are withheld for the review process and will be updated upon acceptance.)*
+**Amir Zamani and Zeinab Abedini**,  
+*Optimizing Data Augmentation for Real-Time Small UAV Detection: A Lightweight Context-Aware Approach*,  
+arXiv:2604.19999, 2026.  
+Accepted for presentation at the 34th International Conference on Electrical Engineering (ICEE 2026).
 
-```
+**arXiv:** https://arxiv.org/abs/2604.19999
+
+```bibtex
+@article{zamani2026uav,
+  title={Optimizing Data Augmentation for Real-Time Small UAV Detection: A Lightweight Context-Aware Approach},
+  author={Zamani, Amir and Abedini, Zeinab},
+  journal={arXiv preprint arXiv:2604.19999},
+  year={2026}
+}
 ```
